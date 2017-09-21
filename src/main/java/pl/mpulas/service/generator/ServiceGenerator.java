@@ -15,11 +15,14 @@ public class ServiceGenerator {
 	 * @param config ffffffffffffff gggggggggggggggg  fffffffff
 	 */
 	public void createCasFromExisting(Path sourceCasPath, ServiceGeneratorConfig config) {
-		
+		//d 
 		
 		GeneratorFileUtils.copyCasProjectFolder(sourceCasPath, config); //dddd  hhhhhhh qq   qqqq
 		
-		//ddd ffffff  ggg
+		//dddd ffffff  ggg
+		GeneratorFileUtils.copyCasProjectFolder(sourceCasPath, config); //dddd  hhhhhhh qqqqqq
+		
+		//dddd
 	}
 	
 	
