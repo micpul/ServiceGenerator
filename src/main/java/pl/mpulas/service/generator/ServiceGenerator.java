@@ -17,7 +17,7 @@ public class ServiceGenerator {
 	public void createCasFromExisting(Path sourceCasPath, ServiceGeneratorConfig config) {
 		
 		
-		GeneratorFileUtils.copyCasProjectFolder(sourceCasPath, config); //dddd
+		GeneratorFileUtils.copyCasProjectFolder(sourceCasPath, config); //dddd  qqqqqq
 		
 		
 	}
