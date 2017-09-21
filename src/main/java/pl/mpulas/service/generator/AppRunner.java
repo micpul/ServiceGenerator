@@ -31,7 +31,7 @@ public class AppRunner {
 			 
 		 }
 		 
-		 for(String casCode: casCodes) {
+		 for(String casCode: casCodes) { 
 			System.out.println(
 			String.format(" svn import \"D:\\PZU_CKI\\AGENCJE UFG\\workspace_ufg_agencje\\cas-%s-CustomerAndSales-CustomerService\" "
 					         + "     http://dev-svn.pzu.pl/repo-code/production/esb/osb-power/consumer/cas-%s-CustomerAndSales-CustomerService/branches/1.4"
