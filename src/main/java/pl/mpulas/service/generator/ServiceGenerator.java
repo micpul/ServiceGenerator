@@ -10,9 +10,9 @@ public class ServiceGenerator {
 	
 	
 	/**
-	 * Tworzy modu³ CAS us³ugi w oparciu o kopiê wzorcowego CASa
+	 * Tworzy moduÂ³ CAS usÂ³ugi w oparciu o kopiÃª wzorcowego CASa
 	 * 
-	 * @param config
+	 * @param config ffffffffffffff
 	 */
 	public void createCasFromExisting(Path sourceCasPath, ServiceGeneratorConfig config) {
 		
