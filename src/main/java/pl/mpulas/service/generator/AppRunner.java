@@ -42,7 +42,7 @@ public class AppRunner {
 			
 			System.out.println(
 					String.format(" svn checkout  http://dev-svn.pzu.pl/repo-code/production/esb/osb-power/consumer/cas-%s-CustomerAndSales-CustomerService/branches/1.4 " +
-							      "     \"D:\\PZU_CKI\\AGENCJE UFG\\workspace_ufg_agencje\\cas-%s-CustomerAndSales-CustomerService\" " 
+							      "       \"D:\\PZU_CKI\\AGENCJE UFG\\workspace_ufg_agencje\\cas-%s-CustomerAndSales-CustomerService\" " 
 							      ,casCode, casCode)   
 					
 					); 
