@@ -23,8 +23,7 @@ public class ServiceGenerator {
 		GeneratorFileUtils.copyCasProjectFolder(sourceCasPath, config); //dddd  hhhhhhh qqqqqq
 		
 		//dddd
-		
-		//ddddddddddddddddd
+		 //fffffffffffffffffff 
 	}
 	
 	
